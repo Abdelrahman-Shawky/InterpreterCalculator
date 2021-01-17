@@ -1,4 +1,4 @@
-# InterpreterCalculator
+# Interpreter Calculator
 
 A C application that interprets and executes mathematical instructions then outputs the results.
 
