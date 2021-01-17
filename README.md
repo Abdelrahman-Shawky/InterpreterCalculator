@@ -1,6 +1,6 @@
 # InterpreterCalculator
 
-A C application that interprets and executes mathematical intructions then prints the results.
+A C application that interprets and executes mathematical instructions then prints the results.
 
 # What I Learned
 
